@@ -1,0 +1,15 @@
+
+
+Variables: Caracteres, números, valores que deseamos utilizar en el código.
+
+Strings: Un tipo de variable, en la que se coloca los caracteres deseados entre comillas.
+
+Funciones: Parte del código que usa realiza acciones que definimos en base a las variables que le presentemos.
+
+	Argumentos: Variables que le damos a la función para que trabaje.
+
+	return: Retorno de la función, es decir, permite salir de la función y en base al código escrito devolver un valor, string o número obtenido.
+
+Declaraciones if: Método de comparación con el fin de ejecutar o no acciones.
+
+Valores booleanos (true, false): Permite definir si algo es cierto o no en base a los datos aportados al código.
